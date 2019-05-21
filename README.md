@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hey there my name is Baljinder Singh
 
 You can use the [editor on GitHub](https://github.com/baljinderpuar/CodingBat/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
