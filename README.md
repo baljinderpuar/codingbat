@@ -1,4 +1,4 @@
-## Hey there my name is Baljinder Singh
+## Hey there my name is Baljinder
 
 You can use the [editor on GitHub](https://github.com/baljinderpuar/CodingBat/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
