@@ -13,7 +13,7 @@
 ## [Recursion-1](https://codingbat.com/java/Recursion-1) (Basic recursion problems)
 ## [Recursion-2](https://codingbat.com/java/Recursion-2) (Harder recursion problems)
 # Python
-## [Warmup-1](https://codingbat.com/python/Warmup-1) (Simple warmup problems to get started, no loops)
+## [Warmup-1](Python/Warmup-1.md) (Simple warmup problems to get started, no loops)
 ## [Warmup-2](https://codingbat.com/python/Warmup-2) (Medium warmup string/list problems with loops)
 ## [String-1](https://codingbat.com/python/String-1) (Basic python string problems -- no loops)
 ## [List-1](https://codingbat.com/python/List-1) (Basic python list problems -- no loops.)
