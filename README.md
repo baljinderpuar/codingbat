@@ -12,3 +12,12 @@
 ## [AP-1](https://codingbat.com/java/AP-1) (AP CS medium problems)
 ## [Recursion-1](https://codingbat.com/java/Recursion-1) (Basic recursion problems)
 ## [Recursion-2](https://codingbat.com/java/Recursion-2) (Harder recursion problems)
+# Python
+## [Warmup-1](https://codingbat.com/python/Warmup-1) (Simple warmup problems to get started, no loops)
+## [Warmup-2](https://codingbat.com/python/Warmup-2) (Medium warmup string/list problems with loops)
+## [String-1](https://codingbat.com/python/String-1) (Basic python string problems -- no loops)
+## [List-1](https://codingbat.com/python/List-1) (Basic python list problems -- no loops.)
+## [Logic-1](https://codingbat.com/python/Logic-1) (Basic boolean logic puzzles -- if else and or not)
+## [Logic-2](https://codingbat.com/python/Logic-2) (Medium boolean logic puzzles -- if else and or not)
+## [String-2](https://codingbat.com/python/String-2) (Medium python string problems -- 1 loop.)
+## [List-2](https://codingbat.com/python/List-2) (Medium python list problems -- 1 loop.)
