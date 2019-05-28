@@ -18,8 +18,8 @@
 ## [Warmup-1](Python/Warmup-1.md) `(Simple warmup problems to get started, no loops)`
 ## [Warmup-2](Python/Warmup-2.md) `(Medium warmup string/list problems with loops)`
 ## [String-1](Python/String-1.md) `(Basic python string problems -- no loops)`
-## [List-1](https://codingbat.com/python/List-1) `(Basic python list problems -- no loops.)`
-## [Logic-1](https://codingbat.com/python/Logic-1) `(Basic boolean logic puzzles -- if else and or not)`
-## [Logic-2](https://codingbat.com/python/Logic-2) `(Medium boolean logic puzzles -- if else and or not)`
-## [String-2](https://codingbat.com/python/String-2) `(Medium python string problems -- 1 loop.)`
+## [List-1](Python/List-1.md) `(Basic python list problems -- no loops.)`
+## [Logic-1](Python/Logic-1.md) `(Basic boolean logic puzzles -- if else and or not)`
+## [Logic-2](Python/Logic-2.md) `(Medium boolean logic puzzles -- if else and or not)`
+## [String-2](Python/String-2.md) `(Medium python string problems -- 1 loop.)`
 ## [List-2](Python/List-2.md) `(Medium python list problems -- 1 loop.)`
