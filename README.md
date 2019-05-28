@@ -20,4 +20,4 @@
 ## [Logic-1](https://codingbat.com/python/Logic-1) (Basic boolean logic puzzles -- if else and or not)
 ## [Logic-2](https://codingbat.com/python/Logic-2) (Medium boolean logic puzzles -- if else and or not)
 ## [String-2](https://codingbat.com/python/String-2) (Medium python string problems -- 1 loop.)
-## [List-2](https://codingbat.com/python/List-2) (Medium python list problems -- 1 loop.)
+## [List-2](Python/List-2.md) (Medium python list problems -- 1 loop.)
