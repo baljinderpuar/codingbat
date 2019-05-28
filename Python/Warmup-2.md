@@ -1,4 +1,4 @@
-# CodingBat -> Python -> Warmup-2
+# `CodingBat -> Python -> Warmup-2`
 ## string_times
 ### Given a string and a non-negative int n, return a larger string that is n copies of the original string.
 
