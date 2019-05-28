@@ -1,4 +1,4 @@
-# CodingBat -> Python -> List-2
+# `CodingBat -> Python -> List-2`
 ## count_evens
 ### Return the number of even ints in the given array. Note: the % "mod" operator computes the remainder, e.g. 5 % 2 is 1.
 
