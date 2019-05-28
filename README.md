@@ -14,7 +14,7 @@
 ## [Recursion-2](https://codingbat.com/java/Recursion-2) (Harder recursion problems)
 # Python
 ## [Warmup-1](Python/Warmup-1.md) (Simple warmup problems to get started, no loops)
-## [Warmup-2](https://codingbat.com/python/Warmup-2) (Medium warmup string/list problems with loops)
+## [Warmup-2](Python/Warmup-2.md) (Medium warmup string/list problems with loops)
 ## [String-1](https://codingbat.com/python/String-1) (Basic python string problems -- no loops)
 ## [List-1](https://codingbat.com/python/List-1) (Basic python list problems -- no loops.)
 ## [Logic-1](https://codingbat.com/python/Logic-1) (Basic boolean logic puzzles -- if else and or not)
